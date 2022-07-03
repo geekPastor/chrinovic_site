@@ -260,35 +260,13 @@ header .user .post{
 .about .row-1 .content p span{
     color: #e38528;
     text-transform: uppercase;
-    font: 600;
+    font-weight: 600;
 }
 
-.about .row-1 .interaction{
-    color:#666;
-    font-size: 1.7rem;
-    padding:.5rem 0;
-    text-align: center;
-    margin-left: 40px;
-}
-
-.about .row-1 .interaction ul {
-    margin-left: 40px;
-}
-
-.about .row-1 .interaction ul li{
-    list-style: none;
-}
-
-.about .row-1 .interaction ul li a{
-    text-decoration: none;
-}
-
-.about .row-1 .interaction ul li ul li{
-    list-style: none;
-}
-
-.about .row-1 .interaction ul li a ul li a{
-    text-decoration: none;
+.about .row-1 .content p span a{
+    text-transform: uppercase;
+    color: #e38528;
+    font-weight: bold;
 }
 
 .about .row-1 .content .box-container{
